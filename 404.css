@@ -100,3 +100,24 @@ body {
     border-radius: 2px;
     font-family: monospace;
 }
+
+@media(max-width:500px) {
+    .box {
+        width: 450px;
+    }
+
+    .box .titleContainer {
+        gap: 5px;
+    }
+
+    .box .titleContainer h1 {
+        font-size: 35px;
+        font-family: monospace;
+        color: rgb(122, 166, 216);
+    }
+
+    .box .titleContainer img {
+        width: 40px;
+        height: 40px;
+    }
+}
