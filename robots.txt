@@ -1,8 +1,7 @@
 # This is the root document that block all the github pages project, if block any projects, use this document
 
 User-agent:*
-Disallow: /404.html
-Disallow: /404.css
+Allow: /
 
 User-agent: GPTBot
 Disallow: /
@@ -11,4 +10,13 @@ User-agent: Google-Extended
 Disallow: /
 
 User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: PerplexityBot
 Disallow: /
