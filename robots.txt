@@ -3,7 +3,7 @@
 User-agent:*
 Allow: /
 
-# Disallow Ai Crawer
+# Disallow Ai crawer
 
 User-agent: GPTBot
 Disallow: /
@@ -31,6 +31,8 @@ Disallow: /
 
 User-agent: Grok
 Disallow: /
+
+# Disallow other crawer
 
 User-agent: MJ12bot
 Disallow: /
