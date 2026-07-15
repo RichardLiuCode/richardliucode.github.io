@@ -23,6 +23,9 @@ Disallow: /
 User-agent: ClaudeBot
 Disallow: /
 
+User-agent: Claude-SearchBot
+Disallow: /
+
 User-agent: Applebot-Extended
 Disallow: /
 
@@ -33,6 +36,12 @@ User-agent: PerplexityBot
 Disallow: /
 
 User-agent: Grok
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
 Disallow: /
 
 # Disallow other crawer
