@@ -3,6 +3,8 @@
 User-agent:*
 Allow: /
 
+# Disallow Ai Crawer
+
 User-agent: GPTBot
 Disallow: /
 
