@@ -1,4 +1,7 @@
 # This is the root document that block all the github pages project, if block any projects, use this document
+# ----------------------------
+
+# Rules for all crawer
 
 User-agent:*
 Allow: /
