@@ -92,3 +92,6 @@ Disallow: /
 
 User-agent: Download Ninja
 Disallow: /
+
+User-agent: fast
+Disallow: /
