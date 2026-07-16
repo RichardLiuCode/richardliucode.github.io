@@ -44,6 +44,9 @@ Disallow: /
 User-agent: Grok
 Disallow: /
 
+User-agent: DeepSeekBot
+Disallow: /
+
 User-agent: CCBot
 Disallow: /
 
@@ -120,3 +123,5 @@ Disallow: /
 
 User-agent: PetalBot
 Disallow: /
+
+
