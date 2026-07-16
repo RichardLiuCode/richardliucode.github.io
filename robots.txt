@@ -114,3 +114,6 @@ Disallow: /
 
 User-agent: fast
 Disallow: /
+
+User-agent: PetalBot
+Disallow: /
