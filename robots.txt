@@ -1,4 +1,4 @@
-# This is the root document that block all the github pages project, if block any projects, use this document
+# This is the root document located in "... .github.io/" that block all the github pages project, if block any projects, use this document
 # ----------------------------
 
 # Rules for all crawer
