@@ -6,7 +6,7 @@
 User-agent:*
 Allow: /
 
-# Disallow Ai crawer
+# Disallow AI crawlers
 
 User-agent: GPTBot
 Disallow: /
@@ -47,7 +47,7 @@ Disallow: /
 User-agent: Bytespider
 Disallow: /
 
-# Disallow other crawer
+# Disallow other crawlers
 
 User-agent: MJ12bot
 Disallow: /
